@@ -1,4 +1,4 @@
--- 4. Tolong list 5 product_id yang paling banyak dibeli dong, mau kita kasih diskon nih di campaign 11.11.
+-- 4. Apa saja 5 produk terlaris yang akan digunakan dalam campaign 11.11?
 
 SELECT  
   product_id,
