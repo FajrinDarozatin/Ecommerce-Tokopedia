@@ -1,4 +1,4 @@
--- 7. Ada berapa customer yang memiliki total belanja keseluruhan lebih dari > 200000 ? Tolong di breakdown by tipe storenya ya!
+-- 7. Ada berapa customer dengan total belanja > 200.000? Breakdown berdasarkan tipe toko.
 
 
 SELECT 
