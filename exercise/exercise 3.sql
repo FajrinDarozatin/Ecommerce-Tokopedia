@@ -1,4 +1,4 @@
--- 3. Bro! Ada berapa produk ya di database kita yang punya harga kurang dari 10000? Mau gue data nih buat flash sale.
+-- 3. Bro! Ada berapa produk ya di database kita yang punya harga kurang dari 10000? Mau saya data nih buat flash sale.
 
 SELECT 
   id,
