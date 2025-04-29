@@ -14,9 +14,9 @@ Beberapa contoh pertanyaan bisnis yang dijawab dalam proyek ini:
 7. Ada berapa customer dengan total belanja > 200.000? Breakdown berdasarkan tipe toko.
 
 **Hasil dan Insight**
-1. Identifikasi target customer yang akurat untuk kampanye promosi email terarah
+1. Identifikasi target customer yang akurat untuk kampanye email terarah.
 2. Insight kenaikan dan penurunan performa setiap bulan berdasarkan analisis transaksi.
-3. Strategi marketing berbasis data untuk kampanye diskon (9.9 dan 11.11).
+3. Rekomendasi strategi marketing untuk campaign 9.9 dan 11.11.
 
 **Tools**
 query ini menggunakan Google Cloud Platform, khususnya dengan memanfaatkan BigQuery SQL
