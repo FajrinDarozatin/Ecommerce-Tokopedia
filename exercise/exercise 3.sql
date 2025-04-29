@@ -1,4 +1,4 @@
--- 3. Bro! Ada berapa produk ya di database kita yang punya harga kurang dari 10000? Mau saya data nih buat flash sale.
+-- 3. Ada berapa produk dengan harga di bawah 10.000 untuk persiapan flash sale?
 
 SELECT 
   id,
