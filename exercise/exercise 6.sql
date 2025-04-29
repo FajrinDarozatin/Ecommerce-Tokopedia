@@ -1,5 +1,4 @@
--- 6. Saya ingin melakukan pemerataan marketing di perusahaan kita. Boleh saya minta info Total belanja dan rata-rata belanja dari customer kita per kota?
-
+-- 6. Berapa total dan rata-rata belanja customer per kota untuk pemerataan marketing?
 
 SELECT  
   a.city, 
