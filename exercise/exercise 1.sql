@@ -1,4 +1,4 @@
--- 1. Kita akan memberikan promosi untuk customer perempuan di kota Depok melalui email. Tolong berikan data ada berapa customer yang harus kita berikan promosi per masing-masing jenis email.
+-- 1. Berapa banyak customer perempuan di kota Depok berdasarkan jenis email untuk kampanye promosi?
 
 SELECT 
   id, 
