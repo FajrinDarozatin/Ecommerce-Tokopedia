@@ -1,3 +1,5 @@
+Proyek ini berfokus pada eksplorasi dan analisis data e-commerce menggunakan SQL. Tujuan utamanya adalah untuk mendukung pengambilan keputusan bisnis melalui segmentasi pelanggan, analisis performa transaksi, dan identifikasi produk terlaris.
+
 **Translate Pertanyaan Bisnis ke SQL Query**
 
 List Pertanyaan Bisnis
@@ -9,6 +11,11 @@ List Pertanyaan Bisnis
 5. Berapa jumlah transaksi, pendapatan dan jumlah produk yang terjual di platform kita sekarang secara bulanan? apakah terjadi kenaikan atau tidak?
 6. Saya ingin melakukan pemerataan marketing di perusahaan kita. Boleh saya minta info Total belanja dan rata-rata belanja dari customer kita per kota?
 7. Ada berapa customer yang memiliki total belanja keseluruhan lebih dari > 200000 ? Tolong di breakdown by tipe storenya ya!
+
+**Hasil dan Insight**
+1. Identifikasi target customer yang akurat untuk kampanye promosi email terarah
+2. Insight kenaikan dan penurunan performa setiap bulan berdasarkan analisis transaksi.
+3. Strategi marketing berbasis data untuk kampanye diskon (9.9 dan 11.11).
 
 **Tools**
 query ini menggunakan Google Cloud Platform, khususnya dengan memanfaatkan BigQuery SQL
