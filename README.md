@@ -1,4 +1,4 @@
-Proyek ini berfokus pada eksplorasi dan analisis data e-commerce menggunakan SQL. Tujuan utamanya adalah untuk mendukung pengambilan keputusan bisnis melalui segmentasi pelanggan, analisis performa transaksi, dan identifikasi produk terlaris.
+Proyek ini berfokus pada eksplorasi dan analisis data e-commerce menggunakan SQL. Tujuan utamanya adalah untuk mendukung pengambilan keputusan bisnis melalui segmentasi pelanggan, analisis performa transaksi, dan identifikasi produk terlaris, serta mentranslate pertanyaan bisnis ke dalam query SQL.
 
 **Translate Pertanyaan Bisnis ke SQL Query**
 
