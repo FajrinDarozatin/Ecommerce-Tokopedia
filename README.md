@@ -4,7 +4,7 @@ Proyek ini berfokus pada eksplorasi dan analisis data e-commerce menggunakan SQL
 
 **Translate Pertanyaan Bisnis ke SQL Query**
 
-List Pertanyaan Bisnis
+Beberapa contoh pertanyaan bisnis yang dijawab dalam proyek ini:
 1. Kita akan memberikan promosi untuk customer perempuan di kota Depok melalui email. Tolong berikan data ada berapa customer yang harus kita berikan promosi per masing-masing jenis email.
 2. Berikan saya 10 id customer dengan total pembelian overall terbesar. Saya akan memberikan diskon untuk campaign 9.9!
 3. Bro! Ada berapa produk ya di database kita yang punya harga kurang dari 10000? Mau gue data nih buat flash sale.
