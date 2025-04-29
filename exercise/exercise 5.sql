@@ -1,4 +1,4 @@
--- 5. Berapa jumlah transaksi, pendapatan dan jumlah produk yang terjual di platform kita sekarang secara bulanan? apakah terjadi kenaikan atau tidak?
+-- 5. Bagaimana performa penjualan bulanan (jumlah transaksi, pendapatan, dan produk terjual), dan apakah terjadi kenaikan?
 
 SELECT 
   DATE_TRUNC(DATE(created_at),MONTH), 
