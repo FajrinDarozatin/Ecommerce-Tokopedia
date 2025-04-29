@@ -1,4 +1,4 @@
--- 2. Berikan saya 10 id customer dengan total pembelian overall terbesar. Saya akan memberikan diskon untuk campaign 9.9!
+-- 2. Siapa 10 customer dengan total pembelian terbesar untuk campaign 9.9?
 
 SELECT 
   customer_id,
